@@ -25,7 +25,7 @@
 ========================================================================================================
     T E X T I L E   C O M P U T E R - A I D E D   D E S I G N   &   I N D U S T R I A L   E N G I N E
 ========================================================================================================
-```ç
+```
 
 *An industrial-grade, ultra-high-performance Textile Design & CAM export engine for electronic Jacquard looms.*
 
